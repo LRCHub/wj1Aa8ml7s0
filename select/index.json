@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Orange Juice",
+  "base_artist": "Daichi Yamamoto",
+  "createdAt": "2026-02-11T05:55:29.626293Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Frozen Orange Juice",
+      "artist": "Peter Sarstedt",
+      "has_synced": true,
+      "path": "select/01_Frozen_Orange_Juice_Peter_Sarstedt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Orange Juice",
+      "artist": "Bellows",
+      "has_synced": true,
+      "path": "select/02_Orange_Juice_Bellows.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orange Juice Blues",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/03_Orange_Juice_Blues_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Orange Juice Blues (Blues for Breakfast)",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/04_Orange_Juice_Blues_(Blues_for_Breakfast)_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Orange Juice",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/05_Orange_Juice_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Orange Juice Jones",
+      "artist": "JPEGMAFIA feat. Danny Brown",
+      "has_synced": true,
+      "path": "select/06_Orange_Juice_Jones_JPEGMAFIA_feat._Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Orange Juice Jones",
+      "artist": "JPEGMAFIA & Danny Brown",
+      "has_synced": true,
+      "path": "select/07_Orange_Juice_Jones_JPEGMAFIA_&_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Orange Juice",
+      "artist": "Noah Kahan",
+      "has_synced": true,
+      "path": "select/08_Orange_Juice_Noah_Kahan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "orange juice",
+      "artist": "BETWEEN FRIENDS",
+      "has_synced": true,
+      "path": "select/09_orange_juice_BETWEEN_FRIENDS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Orange Juice Jones",
+      "artist": "JPEGMAFIA",
+      "has_synced": true,
+      "path": "select/10_Orange_Juice_Jones_JPEGMAFIA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Orange Juice",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/11_Orange_Juice_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Orange Juice Jones",
+      "artist": "Danny Brown / JPEGMAFIA",
+      "has_synced": true,
+      "path": "select/12_Orange_Juice_Jones_Danny_Brown___JPEGMAFIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Orange Juice",
+      "artist": "Daichi Yamamoto",
+      "has_synced": false,
+      "path": "select/pl_01_Orange_Juice_Daichi_Yamamoto.txt"
+    }
+  ]
+}
